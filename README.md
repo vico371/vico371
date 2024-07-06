@@ -14,4 +14,14 @@ Olá! Meu nome é **Vicente De Souza**. Sou um profissional dedicado e apaixonad
 
 ## Habilidades
 
-- **Radiologia**: Realização de exames radiológicos, manuseio de equipamentos de imagem, atenção aos detalhes e cuidado com pacientes.
+- **Radiologia**: Realização de exames radiológicos, manuseio de equipamentos de imagem, atenção aos detalhes e cuidado com pacientes.##
+
+- ## Hobbis
+- **Caminhar, e escutar músicas.
+
+- ## Links
+- **Siga-me no Instagram: [@vicente_de_souza_](http://intagram.com/vicente_de_souza_)
+
+- ## Mais sobre mim.
+- Cresça, estude e evolua! Sua melhor vingança é o seu sucesso esplendor.Esta frase resume minha abordagem à vida e à carreira. Acredito que o aprendizado contínuo e a evolução pessoal são fundamentais para alcançar nossos objetivos e contribuir positivamente para a sociedade.
+  
