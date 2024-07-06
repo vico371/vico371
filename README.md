@@ -17,7 +17,7 @@ Olá! Meu nome é **Vicente De Souza**. Sou um profissional dedicado e apaixonad
 - **Radiologia**: Realização de exames radiológicos, manuseio de equipamentos de imagem, atenção aos detalhes e cuidado com pacientes.##
 
 - ##  Hobbis
-- **Caminhar, e escutar músicas.
+- Caminhar, e escutar músicas.
 
 - ##  Links
 - Siga-me no Instagram: [@vicente_de_souza_](http://intagram.com/vicente_de_souza_)
