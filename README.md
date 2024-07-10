@@ -2,7 +2,7 @@
 ![minha foto](![foto](https://github.com/vico371/vico371/assets/173743351/bdca8ee8-5232-4c35-8edf-7e98d1b1cdd4)
 .jpeg)
 ##  Sobre Mim.....
-Olá! Meu nome é **Vicente De Souza**. Sou um profissional dedicado e apaixonado por Radiologia e Tecnologia da Informação (T.I.). Resido no Rio Grande do Sul (R.S.) e estou constantemente buscando crescer, estudar e evoluir em minhas áreas de interesse.
+Olá! Meu nome é **Vicente De Souza**. Sou formado em Radiologia, cuja eu amo essa área da saúde. E atualmente sou estudantena a´rea de (T.I). Mais expecificamnete em Desenvolvimento de Sistemas. Resido no Rio Grande do Sul (R.S.) E estou constantemente buscando crescer, estudar e evoluir em minhas áreas de interesse.
 
 ##  Minha experiência Profissional
 
