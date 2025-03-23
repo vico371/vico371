@@ -37,9 +37,4 @@ Olá! Meu nome é Vicente De Souza. Sou formado em Radiologia, área pela qual t
 ## Inspiração
 > "Cresça, estude e evolua! Sua melhor vingança é o seu sucesso esplendor."
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vico371/vico371/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vico371/vico371/output/github-contribution-grid-snake.svg">
-    <img alt="Animação da cobra da grade de contribuição do GitHub" src="https://raw.githubusercontent.com/vico371/vico371/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
+
