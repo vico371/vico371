@@ -6,9 +6,9 @@
 
 💞️ I want to collaborate on healthcare-focused system development.
 
-📫 How to reach me: @vicente_de_souza (social media/contact info).
+📫 How to reach me: @vicente_de_souza.
 
-😄 Pronouns: 371 (my nickname).
+😄 Pronouns: 371.
 
 ⚡ Fun fact: I have a background in Healthcare.
 <!---
