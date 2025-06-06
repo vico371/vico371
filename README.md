@@ -1,17 +1,25 @@
-👋 Hi, I’m @vicente.
+# 👋 Olá! Eu sou o Vicente de Souza
 
-👀 I’m interested in technology applied to human sciences.
+🎯 Desenvolvedor em formação com interesse em tecnologia aplicada às ciências humanas.  
+📍 Novo Hamburgo, RS, Brasil.  
+💼 Experiência na área da saúde e transição para o desenvolvimento de sistemas.
 
-🌱 I’m currently learning Systems Development.
+## 🛠️ Habilidades
 
-💞️ I want to collaborate on healthcare-focused system development.
+- **Linguagens**: Python, HTML, CSS, JavaScript  
+- **Ferramentas**: Git, GitHub, Selenium WebDriver  
+- **Interesses**: Desenvolvimento de sistemas voltados para a área da saúde, automação de testes, interfaces web.
 
-📫 How to reach me: @vicente_de_souza.
+## 📂 Projetos em Destaque
 
-😄 Pronouns: 371.
+- [Atividades-Selenium](https://github.com/vico371/Atividades-Selenium): Testes automatizados utilizando Selenium WebDriver em Python.  
+- [PersonalWebsite](https://github.com/vico371/PersonalWebsite): Site pessoal com informações e portfólio.
 
-⚡ Fun fact: I have a background in Healthcare.
-<!---
-vico371/vico371 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/vicente-de-souza-146b4527a/)  
+- Email: vicentedesouza.com
+
+---
+
+🧠 Sempre aprendendo e buscando evoluir na interseção entre tecnologia e ciências humanas.
