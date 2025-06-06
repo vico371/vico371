@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Vicente de Souza
+# 👋 Olá! Eu sou o Vicente 
 
 🎯 Desenvolvedor em formação com interesse em tecnologia aplicada às ciências humanas.  
 📍 Novo Hamburgo, RS, Brasil.  
